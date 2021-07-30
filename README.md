@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @IndrajeetSingh
+- 👋 Hi, I’m @Indrajeet Singh
 - 👀 I’m interested in Application developement, Website developement and new emergin technologies
 - 🌱 I’m currently learning Flutter and ReactJs
 - 💞️ I’m looking to collaborate on Flutter and ReactJs public repositories
